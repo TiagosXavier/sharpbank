@@ -1,0 +1,15 @@
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\bin\Debug\net6.0\SharpBank.exe
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\bin\Debug\net6.0\SharpBank.deps.json
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\bin\Debug\net6.0\SharpBank.runtimeconfig.json
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\bin\Debug\net6.0\SharpBank.dll
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\bin\Debug\net6.0\SharpBank.pdb
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\obj\Debug\net6.0\SharpBank.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\obj\Debug\net6.0\SharpBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\obj\Debug\net6.0\SharpBank.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\obj\Debug\net6.0\SharpBank.AssemblyInfo.cs
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\obj\Debug\net6.0\SharpBank.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\obj\Debug\net6.0\SharpBank.dll
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\obj\Debug\net6.0\refint\SharpBank.dll
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\obj\Debug\net6.0\SharpBank.pdb
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\obj\Debug\net6.0\SharpBank.genruntimeconfig.cache
+C:\Users\dev\Desktop\Tiago\Bytebank\Bytebank\obj\Debug\net6.0\ref\SharpBank.dll
